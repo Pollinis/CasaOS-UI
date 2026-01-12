@@ -1,6 +1,6 @@
 {
-    "name": "CasaOS",
-    "short_name": "CasaOS",
+    "name": "PollenOS",
+    "short_name": "PollenOS",
     "icons": [{
             "src": "/img/icon/android-chrome-192x192.png",
             "sizes": "192x192",

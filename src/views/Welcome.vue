@@ -17,10 +17,10 @@
 				</div>
 
 				<h2 v-animate-css="s2Ani" class="title is-2 mb-5 has-text-centered __attached_title">{{
-						$t('Welcome to CasaOS')
+						$t('Welcome to PollenOS')
 					}}</h2>
 				<h2 v-animate-css="s3Ani" class="subtitle  has-text-centered __attached_sub_title">{{
-						$t(`Let's create your initial account`)
+						$t(`Let's create your account`)
 					}}</h2>
 				<b-button v-animate-css="s4Ani" class="mt-2" rounded type="is-primary" @click="goToStep(2)">{{
 						$t(`Go →`)
